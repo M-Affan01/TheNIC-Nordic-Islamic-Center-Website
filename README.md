@@ -152,8 +152,6 @@ TheNic-Website/
 │   ├── instagram.png
 │   ├── youtube.png
 │   └── [social media footer icons]
-└── README.md                       # This file
-```
 
 ### Design System
 
