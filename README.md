@@ -653,6 +653,5 @@ For technical inquiries or collaboration:
 
 © 2026 Muhammad Affan | Practice/Portfolio Project
 
-[⬆ Back to Top](#-norrbottens-islamiska-center-nic-website)
 
 
